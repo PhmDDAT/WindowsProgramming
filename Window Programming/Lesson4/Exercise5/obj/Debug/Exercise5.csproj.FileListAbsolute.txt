@@ -1,0 +1,14 @@
+D:\Desktop\Window Programming\Lesson4\Exercise5\bin\Debug\Exercise5.exe.config
+D:\Desktop\Window Programming\Lesson4\Exercise5\bin\Debug\Exercise5.exe
+D:\Desktop\Window Programming\Lesson4\Exercise5\bin\Debug\Exercise5.pdb
+D:\Desktop\Window Programming\Lesson4\Exercise5\obj\Debug\MainWindow.g.cs
+D:\Desktop\Window Programming\Lesson4\Exercise5\obj\Debug\App.g.cs
+D:\Desktop\Window Programming\Lesson4\Exercise5\obj\Debug\Exercise5_MarkupCompile.cache
+D:\Desktop\Window Programming\Lesson4\Exercise5\obj\Debug\Exercise5_MarkupCompile.lref
+D:\Desktop\Window Programming\Lesson4\Exercise5\obj\Debug\MainWindow.baml
+D:\Desktop\Window Programming\Lesson4\Exercise5\obj\Debug\Exercise5.g.resources
+D:\Desktop\Window Programming\Lesson4\Exercise5\obj\Debug\Exercise5.Properties.Resources.resources
+D:\Desktop\Window Programming\Lesson4\Exercise5\obj\Debug\Exercise5.csproj.GenerateResource.cache
+D:\Desktop\Window Programming\Lesson4\Exercise5\obj\Debug\Exercise5.csproj.CoreCompileInputs.cache
+D:\Desktop\Window Programming\Lesson4\Exercise5\obj\Debug\Exercise5.exe
+D:\Desktop\Window Programming\Lesson4\Exercise5\obj\Debug\Exercise5.pdb
